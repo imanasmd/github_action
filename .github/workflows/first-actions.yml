@@ -25,5 +25,5 @@ jobs:
 
     - name: Run Python script
       run: |
-        python hello.py
+        python addition.py
       working-directory: ./app
